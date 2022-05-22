@@ -1,4 +1,7 @@
 {
   "name": "ClalitWoman",
-  "displayName": "ClalitWoman"
+  "displayName": "ClalitWoman",
+  "infoPlist": {
+    "NSFaceIDUsageDescription": "Allow the app to authenticate the user and let him in."
+  }
 }
