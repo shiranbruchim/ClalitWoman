@@ -10,15 +10,16 @@ function loadStories() {
   require('../src/components/CheckBox/CheckBox.stories');
   require('../src/components/CheckBoxWrapper/CheckBoxWrapper.stories');
   require('../src/components/DatePicker/DatePicker.stories');
-  require('../src/components/DevScreens/DevScreens.stories');
+  // require('../src/components/DevScreens/DevScreens.stories');
   require('../src/components/Exit/Exit.stories');
+  require('../src/components/Graph/Graph.stories');
   require('../src/components/Home/Home.stories');
   require('../src/components/InputText/InputText.stories');
   require('../src/components/Loading/Loading.stories');
   require('../src/components/LoginLayout/LoginLayoutCard/LoginLayoutCard.stories');
   require('../src/components/LoginLayout/LoginLayoutInput/LoginLayoutInput.stories');
   require('../src/components/MainTopBar/MainTopBar.stories');
-  require('../src/components/MiniAvatar/MiniAvatar.stories');
+  // require('../src/components/MiniAvatar/MiniAvatar.stories');
   require('../src/components/Modal/Modal.stories');
   require('../src/components/ProgressBar/ProgressBar.stories');
   require('../src/components/Question/Question.stories');
@@ -29,7 +30,7 @@ function loadStories() {
   require('../src/components/RadioButton/RadioButton.stories');
   require('../src/components/RightMenu/RightMenu.stories');
   require('../src/components/RightMenuBar/RightMenuBar.stories');
-  require('../src/components/StepHeader/StepHeader.stories');
+  // require('../src/components/StepHeader/StepHeader.stories');
   require('../src/components/Text/Text.stories');
   require('../src/components/TextWithTitle/TextWithTitle.stories');
   require('../src/components/ThankYouFeedback/ThankYouFeedback.stories');
@@ -43,15 +44,16 @@ const stories = [
   '../src/components/CheckBox/CheckBox.stories',
   '../src/components/CheckBoxWrapper/CheckBoxWrapper.stories',
   '../src/components/DatePicker/DatePicker.stories',
-  '../src/components/DevScreens/DevScreens.stories',
+  // '../src/components/DevScreens/DevScreens.stories',
   '../src/components/Exit/Exit.stories',
+  '../src/components/Graph/Graph.stories',
   '../src/components/Home/Home.stories',
   '../src/components/InputText/InputText.stories',
   '../src/components/Loading/Loading.stories',
   '../src/components/LoginLayout/LoginLayoutCard/LoginLayoutCard.stories',
   '../src/components/LoginLayout/LoginLayoutInput/LoginLayoutInput.stories',
   '../src/components/MainTopBar/MainTopBar.stories',
-  '../src/components/MiniAvatar/MiniAvatar.stories',
+  // '../src/components/MiniAvatar/MiniAvatar.stories',
   '../src/components/Modal/Modal.stories',
   '../src/components/ProgressBar/ProgressBar.stories',
   '../src/components/Question/Question.stories',
@@ -62,7 +64,7 @@ const stories = [
   '../src/components/RadioButton/RadioButton.stories',
   '../src/components/RightMenu/RightMenu.stories',
   '../src/components/RightMenuBar/RightMenuBar.stories',
-  '../src/components/StepHeader/StepHeader.stories',
+  // '../src/components/StepHeader/StepHeader.stories',
   '../src/components/Text/Text.stories',
   '../src/components/TextWithTitle/TextWithTitle.stories',
   '../src/components/ThankYouFeedback/ThankYouFeedback.stories',

@@ -28,7 +28,7 @@ const MainDrawer = () => {
         },
         overlayColor: 'rgba(255,255,255,0.7)',
       }}>
-      <Drawer.Screen name="StorybookUIRoot" component={AppNavigator} />
+      <Drawer.Screen name="StorybookUIRoot" component={StorybookUIRoot} />
     </Drawer.Navigator>
   );
 };
