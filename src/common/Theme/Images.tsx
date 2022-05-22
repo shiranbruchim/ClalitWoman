@@ -1,0 +1,30 @@
+const Images = {
+  splash: require('./images/splash.jpeg'),
+  fileImage: require('./images/thumbnails/fileImg.png'),
+  linkingImage: require('./images/thumbnails/linkingImg.png'),
+  greenDiagram: require('./images/thumbnails/greenDiagram.png'),
+  plus: require('./images/plus.png'),
+  plusIcon_fqa: () => require('./images/thumbnails/plusIcon_fqa.png'),
+  callendarIcon_schedualling: () =>
+    require('./images/thumbnails/callendarIcon_schedualing.png'),
+  success: () => require('./images/thumbnails/success.png'),
+  cross: () => require('./images/thumbnails/cross.png'),
+  crossBell: require('./images/thumbnails/crossBell.png'),
+  explanationMessage: require('./images/thumbnails/explanationMessage.png'),
+  videoCamera: require('./images/thumbnails/videoCamera.png'),
+  pause: require('./images/thumbnails/pause.png'),
+  thumbDown: require('./images/thumbnails/thumbDown.png'),
+  thumbUp: require('./images/thumbnails/thumbUp.png'),
+  smallCheck: require('./images/thumbnails/smallCheck.png'),
+  smilingBaby: require('./images/thumbnails/smilingBaby.png'),
+  stethoscope: require('./images/thumbnails/stethoscope.png'),
+  formApproved: require('./images/thumbnails/formApproved.png'),
+  Xicon: require('./images/thumbnails/XIcon.png'),
+  XiconMenu: require('./images/thumbnails/XiconMenu.png'),
+  eye: require('./images/thumbnails/eye.png'),
+  topBottomMenu: require('./images/top-view.png'),
+  middleBottomMenu: require('./images/middle-view.png'),
+  bottomBottomMenu: require('./images/bottom-view.png'),
+};
+
+export default Images;

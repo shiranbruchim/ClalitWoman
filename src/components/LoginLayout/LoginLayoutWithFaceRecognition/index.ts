@@ -1,0 +1,3 @@
+import LoginLayoutWithFaceRecognition from './LoginLayoutWithFaceRecognitionStepTwo/LoginLayoutWithFaceRecognitionStepTwo';
+
+export default LoginLayoutWithFaceRecognition;

@@ -1,0 +1,16 @@
+export const ScreenNames = {
+  Login: 'Login',
+  LoginWithSMS: 'LoginWithSMS',
+  LoginWithSMSStepTwo: 'LoginWithSMSStepTwo',
+  LoginWithFaceid: 'LoginWithFaceid',
+  LoginWithFaceidSettings: 'LoginWithFaceidSettings',
+  LoginWithFaceidStepTwo: 'LoginWithFaceidStepTwo',
+  LoginWithFaceidStepThree: 'LoginWithFaceidStepThree',
+  LoginWithFingerPrint: 'LoginWithFingerPrint',
+  LoginWithFingerPrintSettings: 'LoginWithFingerPrintSettings',
+  LoginWithFingerPrintStepTwo: 'LoginWithFingerPrintStepTwo',
+  LoginWithFingerPrintStepThree: 'LoginWithFingerPrintStepThree',
+  LoginSuccess: 'LoginSuccess',
+  Home: 'Home',
+  Notification: 'Notification',
+};
