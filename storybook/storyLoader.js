@@ -30,7 +30,7 @@ function loadStories() {
   require('../src/components/RadioButton/RadioButton.stories');
   require('../src/components/RightMenu/RightMenu.stories');
   require('../src/components/RightMenuBar/RightMenuBar.stories');
-  // require('../src/components/StepHeader/StepHeader.stories');
+  require('../src/components/StepHeader/StepHeader.stories');
   require('../src/components/Text/Text.stories');
   require('../src/components/TextWithTitle/TextWithTitle.stories');
   require('../src/components/ThankYouFeedback/ThankYouFeedback.stories');
@@ -64,7 +64,7 @@ const stories = [
   '../src/components/RadioButton/RadioButton.stories',
   '../src/components/RightMenu/RightMenu.stories',
   '../src/components/RightMenuBar/RightMenuBar.stories',
-  // '../src/components/StepHeader/StepHeader.stories',
+  '../src/components/StepHeader/StepHeader.stories',
   '../src/components/Text/Text.stories',
   '../src/components/TextWithTitle/TextWithTitle.stories',
   '../src/components/ThankYouFeedback/ThankYouFeedback.stories',

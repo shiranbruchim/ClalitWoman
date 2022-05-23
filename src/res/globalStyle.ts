@@ -1,6 +1,6 @@
 import {StyleSheet} from 'react-native';
 
-const globalStyle = StyleSheet.create({
+export const globalStyle = StyleSheet.create({
   SHADOW: {
     shadowColor: '#000',
     shadowOffset: {
@@ -36,5 +36,3 @@ const globalStyle = StyleSheet.create({
   //     color: colors.main_black,
   //   }),
 });
-
-export default globalStyle;
